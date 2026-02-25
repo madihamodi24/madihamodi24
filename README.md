@@ -1,4 +1,4 @@
-<h1 align="center">Software Developer | Problem Solver | Lifelong Learner ⚡</h1>
+<h1 align="center">Software/Web Developer | Problem Solver | Lifelong Learner ⚡</h1>
 
 <p align="center">
 Frontend Enthusiast • Problem Solver • Continuous Learner
