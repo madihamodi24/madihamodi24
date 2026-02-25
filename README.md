@@ -1,7 +1,7 @@
 <h1 align="center">Software Developer | Problem Solver | Lifelong Learner ⚡</h1>
 
 <p align="center">
-Backend Enthusiast • Problem Solver • Continuous Learner
+Frontend Enthusiast • Problem Solver • Continuous Learner
 </p>
 
 ---
@@ -14,9 +14,8 @@ I enjoy understanding how systems work, writing clean and efficient logic, and b
 
 I focus on strong fundamentals, consistent practice, and hands-on projects.
 
-🔹 Practicing DSA & algorithmic problem-solving (C / C++)  
+🔹 Practicing DSA & algorithmic problem-solving (C++)  
 🔹 Working with databases and backend workflows  
-🔹 Learning deployment and containerization with Docker  
 🔹 Improving code quality with every project  
 
 📍 `localhost:5000`
@@ -27,9 +26,6 @@ I focus on strong fundamentals, consistent practice, and hands-on projects.
 
 <div align="center">
 
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=00599C&logoColor=white&style=for-the-badge" height="25" />
-</a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/static/v1?message=C++&logo=c%2B%2B&label=&color=00599C&logoColor=white&style=for-the-badge" height="25" />
 </a>
@@ -61,7 +57,7 @@ I focus on strong fundamentals, consistent practice, and hands-on projects.
 
 ## 🎯 Current Focus
 
-- Strengthening backend fundamentals  
+- Strengthening Frontend fundamentals  
 - Writing cleaner and more readable code  
 - Improving problem-solving skills  
 - Building real-world mini projects  
@@ -75,8 +71,3 @@ I focus on strong fundamentals, consistent practice, and hands-on projects.
 </p>
 
 ---
-
-## 💬 Developer Humor
-
-```bash
-git commit -m "But it works on my machine" ⌨️
