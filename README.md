@@ -8,7 +8,7 @@ Frontend Enthusiast • Problem Solver • Continuous Learner
 
 ## 👋 About Me
 
-I’m a fresher software developer with a strong interest in backend development, web technologies, and problem-solving.
+I’m a fresher Software/Web developer with a strong interest in backend development, web technologies, and problem-solving.
 
 I enjoy understanding how systems work, writing clean and efficient logic, and building small but complete applications.
 
