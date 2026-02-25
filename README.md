@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Software Developer | Problem Solver | Lifelong Learner ⚡</h1>
 
-<!--
-**madihamodi24/madihamodi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Backend Enthusiast • Problem Solver • Continuous Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I’m a fresher software developer with a strong interest in backend development, web technologies, and problem-solving.
+
+I enjoy understanding how systems work, writing clean and efficient logic, and building small but complete applications.
+
+I focus on strong fundamentals, consistent practice, and hands-on projects.
+
+🔹 Practicing DSA & algorithmic problem-solving (C / C++)  
+🔹 Working with databases and backend workflows  
+🔹 Learning deployment and containerization with Docker  
+🔹 Improving code quality with every project  
+
+📍 `localhost:5000`
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=00599C&logoColor=white&style=for-the-badge" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=C++&logo=c%2B%2B&label=&color=00599C&logoColor=white&style=for-the-badge" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&style=for-the-badge" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=1572B6&logoColor=white&style=for-the-badge" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&style=for-the-badge" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&style=for-the-badge" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&style=for-the-badge" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&style=for-the-badge" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Flask&logo=flask&label=&color=000000&logoColor=white&style=for-the-badge" height="25" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening backend fundamentals  
+- Writing cleaner and more readable code  
+- Improving problem-solving skills  
+- Building real-world mini projects  
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="pacman contribution graph" />
+</p>
+
+---
+
+## 💬 Developer Humor
+
+```bash
+git commit -m "But it works on my machine" ⌨️
