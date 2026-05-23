@@ -8,14 +8,14 @@ Frontend Enthusiast • Problem Solver • Continuous Learner
 
 ## 👋 About Me
 
-I’m a fresher Software/Web developer with a strong interest in backend development, web technologies, and problem-solving.
+I’m a fresher Software/Web developer with a strong interest in fronted/backend development, web technologies, and problem-solving.
 
 I enjoy understanding how systems work, writing clean and efficient logic, and building small but complete applications.
 
 I focus on strong fundamentals, consistent practice, and hands-on projects.
 
 🔹 Practicing DSA & algorithmic problem-solving (C++)  
-🔹 Working with databases and backend workflows  
+🔹 Working with databases and fronted/ backend workflows  
 🔹 Improving code quality with every project  
 
 📍 `localhost:5000`
