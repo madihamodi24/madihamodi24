@@ -50,7 +50,12 @@ I focus on strong fundamentals, consistent practice, and hands-on projects.
 <a href="#" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Flask&logo=flask&label=&color=000000&logoColor=white&style=for-the-badge" height="25" />
 </a>
-
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&style=for-the-badge" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" />
+</a>
 </div>
 
 ---
